@@ -14,16 +14,16 @@
     *{box-sizing:border-box}html{scroll-behavior:smooth}
     body{margin:0;background:var(--bg);color:var(--tp);font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif;font-size:15px;line-height:1.6;-webkit-font-smoothing:antialiased}
     a{color:var(--accent)}button{font:inherit;cursor:pointer;transition:transform .15s,box-shadow .15s}button:active{transform:scale(.97)}
-    .layout{display:flex;min-height:100vh;position:relative}
-    aside{width:240px;background:var(--surface);border-right:1px solid var(--border);padding:18px 12px;position:sticky;top:0;height:100vh;overflow-y:auto;z-index:100;display:flex;flex-direction:column;transition:transform .25s cubic-bezier(.4,0,.2,1),width .25s ease,margin .25s ease}
-    .layout.collapsed aside{margin-left:-240px}
+    .layout{display:flex;min-height:100vh;position:relative;width:100%}
+    aside{width:250px;min-width:250px;background:var(--surface);border-right:1px solid var(--border);padding:18px 12px;position:sticky;top:0;height:100vh;overflow-y:auto;z-index:100;display:flex;flex-direction:column;transition:all .2s ease}
+    .layout.collapsed aside{display:none!important}
     .sidebar-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.45);backdrop-filter:blur(3px);z-index:90}
     .toggle-bar{display:flex;align-items:center;gap:12px;margin-bottom:14px}
-    .btn-toggle-sidebar{background:var(--surface);border:1px solid var(--border);border-radius:9px;padding:7px 11px;font-size:14px;color:var(--tp);box-shadow:var(--sm);display:inline-flex;align-items:center;gap:6px;cursor:pointer}
-    .btn-toggle-sidebar:hover{background:var(--border)}
+    .btn-toggle-sidebar{background:var(--surface);border:1px solid var(--border);border-radius:9px;padding:8px 14px;font-size:13.5px;font-weight:600;color:var(--tp);box-shadow:var(--sm);display:inline-flex;align-items:center;gap:8px;cursor:pointer;transition:all .15s}
+    .btn-toggle-sidebar:hover{background:var(--border);transform:translateY(-1px)}
     @media(max-width:900px){
       aside{position:fixed;left:0;top:0;height:100vh;box-shadow:var(--lg);transform:translateX(-100%);margin-left:0!important}
-      aside.open{transform:translateX(0)}
+      aside.open{transform:translateX(0);display:flex!important}
       .sidebar-overlay.active{display:block}
     }
     .brand{font-weight:800;font-size:19px;display:flex;align-items:center;gap:8px;margin-bottom:4px}
@@ -37,6 +37,7 @@
     .aside-btn{display:block;width:100%;text-align:left;padding:8px 11px;border-radius:10px;font-size:13px;font-weight:500;background:none;border:none;color:var(--ts);cursor:pointer}
     .aside-btn:hover{background:var(--border);color:var(--tp)}
     main{flex:1;padding:24px 28px;max-width:1440px;margin:0 auto;width:100%;min-width:0;transition:all .25s ease}
+    .layout.collapsed main{max-width:100%!important;padding:24px 36px}
     .view{animation:fade .18s ease-out}
     @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
     /* API key banner */
