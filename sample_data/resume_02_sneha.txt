@@ -1,0 +1,17 @@
+Sneha Patel
+Full Stack Developer | 2 years experience
+Email: sneha.p@example.com | Pune
+
+Skills: JavaScript, React, Node.js, MongoDB, Python basics, HTML, CSS, Git
+
+Experience:
+- Frontend Dev, WebKraft (2023-Present, 2 yrs): React dashboards, Node.js APIs, MongoDB.
+- Freelance: Landing pages, Streamlit demo for college project.
+
+Projects:
+- E-commerce UI in React.
+- College chatbot UI (no backend LLM work).
+
+Education: BCA, Pune University 2023.
+
+Note: No Docker, no PostgreSQL production experience, no LLM API integration. Python only basic scripts.

@@ -1,0 +1,22 @@
+Senior Backend Engineer (Python) — ProductSpace Hiring
+
+About the role:
+We are hiring a Senior Backend Engineer to build AI agent APIs and hiring tools.
+
+Must-have requirements:
+- 3+ years Python, FastAPI or Django
+- REST APIs, PostgreSQL, SQL
+- Docker, Git, CI/CD basics
+- LLM / AI API integration (OpenAI, Gemini, LangChain) preferred
+- System design fundamentals
+
+Good to have:
+- Streamlit, React basics
+- AWS, Redis, Celery
+- Vector DBs (FAISS, Pinecone, Chroma)
+
+Responsibilities:
+- Design APIs, review code, work with product team
+- Build evaluation pipelines for AI features
+
+Experience: 3-6 years. Location: Remote India. Full-time.

@@ -1,0 +1,15 @@
+Aarav Sharma
+Backend Engineer | 4 years experience
+Email: aarav.sharma@example.com | Bangalore
+
+Skills: Python, FastAPI, Django, PostgreSQL, SQL, Docker, Git, GitHub Actions, Redis, AWS EC2, LangChain, OpenAI API
+
+Experience:
+- Backend Engineer, ZetaTech (2022-Present, 3.5 yrs): Built FastAPI microservices, PostgreSQL schemas, Dockerized deployments, integrated OpenAI API for support chatbot, Redis caching.
+- Intern, Infosys (2021-2022): Django, SQL reports.
+
+Projects:
+- Resume screener API with FastAPI + FAISS vector search.
+- CI/CD pipeline with GitHub Actions + Docker.
+
+Education: B.E. Computer Science, VTU 2021.

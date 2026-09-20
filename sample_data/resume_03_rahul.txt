@@ -1,0 +1,15 @@
+Rahul Verma
+Senior Software Engineer | 6 years experience
+Email: rahul.v@example.com | Hyderabad
+
+Skills: Java, Spring Boot, MySQL, PostgreSQL, Docker, Kubernetes, Jenkins, AWS, System Design, SQL
+
+Experience:
+- Senior Engineer, TCS (2019-Present, 6 yrs): Spring Boot microservices, MySQL/PostgreSQL, Docker, K8s, Jenkins CI/CD, AWS deployment.
+- No Python production experience. No LLM / AI integration.
+
+Projects:
+- Banking transaction system in Java.
+- Migration monolith to microservices.
+
+Education: M.Tech, IIIT Hyderabad 2019.

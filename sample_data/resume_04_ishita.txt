@@ -1,0 +1,15 @@
+Ishita Rao
+AI Engineer Intern | 1 year experience
+Email: ishita.rao@example.com | Remote
+
+Skills: Python, LangChain, OpenAI API, Gemini API, Streamlit, FAISS, Pinecone, FastAPI basics, Git, SQL basics
+
+Experience:
+- AI Intern, StartML (2024-Present, 1 yr): Built LangChain RAG demo with Streamlit + FAISS, prompt testing with OpenAI/Gemini.
+- College: FastAPI hello-world APIs, no Docker, no PostgreSQL production, no CI/CD.
+
+Projects:
+- EduPath chatbot prototype.
+- Contract Q&A with Pinecone.
+
+Education: B.Tech AI, 2024. No full-time backend experience yet.
