@@ -1,5 +1,13 @@
 # HireFlow
 
+---
+
+## 🎥 Latest Video Demo — Day 2
+
+[▶️ Watch the HireFlow Day 2 Demo](https://drive.google.com/file/d/10nynm8WP6PoCmGmvHoKyvZ1PM7AobP5O/view?usp=sharing)
+
+---
+
 ### AI-Powered Recruitment Intelligence Agent
 
 > **Smarter Hiring. Better Decisions.**  
