@@ -2,7 +2,13 @@
 
 ---
 
-## 🎥 Latest Video Demo — Day 2
+## 🚀 Live Demo + 🎥 Video Demo
+
+### 🌐 Live Hosted Demo — GitHub Pages
+
+[👉 Open HireFlow Live Demo](https://mohammedshakib-645.github.io/HireFlow/)
+
+### 🎥 Latest Video Demo — Day 2
 
 [▶️ Watch the HireFlow Day 2 Demo](https://drive.google.com/file/d/10nynm8WP6PoCmGmvHoKyvZ1PM7AobP5O/view?usp=sharing)
 
